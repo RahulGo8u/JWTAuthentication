@@ -3,3 +3,7 @@
 ################################################################################
 
 /server/SecureAPI/.vs/SecureAPI
+/server/SecureAPI/bin/Debug/net5.0/ref
+/server/SecureAPI/bin/Debug/net5.0
+/server/SecureAPI/obj
+*.user

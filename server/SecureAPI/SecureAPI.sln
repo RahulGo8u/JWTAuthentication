@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureAPI", "SecureAPI.csproj", "{A5E8ACBE-D35B-4AE4-8AF8-FCE12FB78CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E8ACBE-D35B-4AE4-8AF8-FCE12FB78CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E8ACBE-D35B-4AE4-8AF8-FCE12FB78CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E8ACBE-D35B-4AE4-8AF8-FCE12FB78CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E8ACBE-D35B-4AE4-8AF8-FCE12FB78CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B6191F9-98F3-4959-887C-05B285E7FADD}
+	EndGlobalSection
+EndGlobal
